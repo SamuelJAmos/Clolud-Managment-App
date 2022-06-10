@@ -1,3 +1,22 @@
+# This was a guided project from the YouTube channel "Code Commerce"
+This was a project done following along a YouTube video in hopes to better understand the tailwind process as well as further react knowledge.
+
+# The skills and knowledge gained from this guide listed below
+
+Furthering my understanding of React.JS and Tailwind.
+
+Knowledge on proper package uses and how to do their downloads.
+
+Learning how to fully link Tailwind with React.JS.
+
+Learning more about the tailwind commands and their affects.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
