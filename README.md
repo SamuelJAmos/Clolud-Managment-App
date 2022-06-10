@@ -1,7 +1,9 @@
 # This was a guided project from the YouTube channel "Code Commerce"
-This was a project done following along a YouTube video in hopes to better understand the tailwind process as well as further react knowledge.
+This was a project done following along a YouTube video in hopes to better understand the tailwind process as well as further react knowledge. 
 
 # The skills and knowledge gained from this guide listed below
+
+Further practice in crud methods.
 
 Furthering my understanding of React.JS and Tailwind.
 
@@ -13,6 +15,16 @@ Learning more about the tailwind commands and their affects.
 
 
 
+
+# Stuff I'd like to add 
+
+Firebase connection for database and authentication for sign in.
+
+Have it go live.
+
+Add in proper plugins if it makes sense.
+
+Redesign the page colors and various things so the project is no longer a straight copy.
 
 
 
