@@ -22,6 +22,10 @@ Learned about react smooth scroll
 
 Create a functional further functional back end and add sign up and sign in pages.
 
+Add product page(s).
+
+Add checkout and payment process.
+
 Firebase connection for database and authentication for sign in.
 
 Have it go live.
