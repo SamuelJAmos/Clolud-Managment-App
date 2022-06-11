@@ -15,6 +15,8 @@ Learning more about the tailwind commands and their affects.
 
 Learned about react smooth scroll
 
+Further practice on git commands and trouble shooting.
+
 
 
 
