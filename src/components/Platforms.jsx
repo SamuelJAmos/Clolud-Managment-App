@@ -1,9 +1,9 @@
 import React from 'react'
 import { CheckIcon } from '@heroicons/react/outline'
 
-const AllInOne = () => {
+const Platforms = () => {
     return (
-        <div className='w-full my-32'>
+        <div name='platforms' className='w-full my-32'>
             <div className='max-w-[1240px] mx-auto px-2'>
                 <h2 className='text-5xl font-bold text-center'>All-In-One Platform</h2>
                 <p className='text-2xl py-8 text-gray-500 text-center'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus architecto praesentium ullam tenetur atque voluptatibus sit dignissimos, vitae dolores accusantium, autem impedit dicta non ipsa, tempore quis numquam? Vel, esse!</p>
@@ -86,7 +86,7 @@ const AllInOne = () => {
 
             </div>
         </div>
-    )
-}
+    );
+};
 
-export default AllInOne
+export default Platforms;

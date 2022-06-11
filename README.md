@@ -1,5 +1,5 @@
 # This was a guided project from the YouTube channel "Code Commerce"
-This was a project done following along a YouTube video in hopes to better understand the tailwind process as well as further react knowledge. There is no back end complete during the guide.
+This was a project done following along a YouTube video in hopes to better understand the tailwind process as well as further react knowledge. The only backend complete is the react scroll links.
 
 # The skills and knowledge gained from this guide listed below
 
@@ -13,12 +13,14 @@ Learning how to fully link Tailwind with React.JS.
 
 Learning more about the tailwind commands and their affects.
 
+Learned about react smooth scroll
+
 
 
 
 # Stuff I'd like to add 
 
-Create a functional back end for the project allowing navigation and other important functions.
+Create a functional further functional back end and add sign up and sign in pages.
 
 Firebase connection for database and authentication for sign in.
 
