@@ -15,12 +15,18 @@ Learning more about the tailwind commands and their affects.
 
 Learned about react smooth scroll
 
+Further practice on git commands and trouble shooting.
+
 
 
 
 # Stuff I'd like to add 
 
 Create a functional further functional back end and add sign up and sign in pages.
+
+Add product page(s).
+
+Add checkout and payment process.
 
 Firebase connection for database and authentication for sign in.
 
